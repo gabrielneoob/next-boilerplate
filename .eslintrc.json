@@ -9,7 +9,8 @@
     "plugin:@typescript-eslint/recommended",
     "plugin:react/recommended",
     "prettier",
-    "next"
+    "next",
+    "plugin:storybook/recommended"
   ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
