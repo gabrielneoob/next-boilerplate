@@ -38,13 +38,6 @@
     "prettier": "3.3.3",
     "typescript": "^5"
   },
-  "lint-staged": {
-    "*.{js,jsx,ts,tsx}": [
-      "prettier --write",
-      "eslint --fix",
-      "test"
-    ]
-  },
   "overrides": {
     "@babel/parser": "7.21.9"
   }
