@@ -1,8 +1,8 @@
 const Main = () => {
   return (
-    <main>
+    <div>
       <h1>dsadssss</h1>
-    </main>
+    </div>
   )
 }
 
