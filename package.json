@@ -42,7 +42,7 @@
     "*.{js,jsx,ts,tsx}": [
       "prettier --write",
       "eslint --fix",
-      "npm run test"
+      "jest --passWithNoTests --maxWorkers=50%"
     ]
   },
   "overrides": {
